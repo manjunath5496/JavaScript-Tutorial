@@ -12,7 +12,7 @@
     
  <tr>
  
-<p><img src="JAVASCRIPT.png" alt="JavaScript logo" width="200" height="134" /></p>
+<p><img src="js.png" alt="JavaScript logo" width="200" height="134" /></p>
    
 </tr>
         
