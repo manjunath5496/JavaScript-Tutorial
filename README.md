@@ -166,7 +166,30 @@
 </table>
 </br>
 
+<h2>Publications: </h2>
 
+
+<ul>
+
+                             
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Tutorial/blob/master/js(86).pdf" style="text-decoration:none;">JavaScript at Ten Years</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Tutorial/blob/master/js(87).pdf" style="text-decoration:none;">Trace-based Just-in-Time Type Specialization for Dynamic Languages</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Tutorial/blob/master/js(88).pdf" style="text-decoration:none;">Automated Construction of JavaScript Benchmarks</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Tutorial/blob/master/js(89).pdf" style="text-decoration:none;">Tracing for Web 3.0: Trace Compilation for the Next Generation Web Applications</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Tutorial/blob/master/js(90).pdf" style="text-decoration:none;">Compartmental Memory Management in a Modern Web Browser</a></li>
+
+
+
+
+
+
+
+</ul>
+
+</br>
 
 
 <h3><span id="Creation_at_Netscape" class="mw-headline">Creation at Netscape</span></h3>
