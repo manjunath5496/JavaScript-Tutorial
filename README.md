@@ -271,9 +271,31 @@
 </table>
 
 
+</br>
+<h2>Publications: </h2>
+
+
+<ul>
+
+                             
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Tutorial/blob/master/js(78).pdf" style="text-decoration:none;">Private Members in JavaScript</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Tutorial/blob/master/js(79).pdf" style="text-decoration:none;">Ajax Security</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Tutorial/blob/master/js(80).pdf" style="text-decoration:none;">Functional JavaScript</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Tutorial/blob/master/js(81).pdf" style="text-decoration:none;">The application/json Media Type for JavaScript Object Notation (JSON)</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Tutorial/blob/master/js(82).pdf" style="text-decoration:none;">A panel session – user experience with new software methods</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Tutorial/blob/master/js(83).pdf" style="text-decoration:none;">JSON: The x in Ajax</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Tutorial/blob/master/js(84).pdf" style="text-decoration:none;">JSON: The Fat-Free Alternative to XML</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Tutorial/blob/master/js(85).pdf" style="text-decoration:none;">From Habitat to Global Cyberspace</a></li>
 
 
 
+
+
+</ul>
 
 
 
@@ -895,6 +917,8 @@ LCMCalculator: a = 22, b = 58, gcd = 2, lcm = 638
 <li><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Tutorial/blob/master/js(75).pdf" style="text-decoration:none;">A Software Engineer Learns HTML5, JavaScript and jQuery</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Tutorial/blob/master/js(76).pdf" style="text-decoration:none;">Beginning AngularJS </a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Tutorial/blob/master/js(77).pdf" style="text-decoration:none;">JavaScript Bible </a></li>
 
 </ul>
   
