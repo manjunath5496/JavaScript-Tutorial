@@ -713,7 +713,7 @@ LCMCalculator: a = 22, b = 58, gcd = 2, lcm = 638
 
 <li><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Tutorial/blob/master/js(44).pdf" style="text-decoration:none;">JavaScript: Moving to ES2015</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Tutorial/blob/master/js(45).pdf" style="text-decoration:none;">JavaScript Tips & Secrets for Professionals</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Tutorial/blob/master/js(45).pdf" style="text-decoration:none;">JavaScript Tips and Secrets for Professionals</a></li>
 
 
 
