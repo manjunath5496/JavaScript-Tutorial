@@ -463,8 +463,7 @@ console.log(add(1,2));
 <div class="mw-highlight mw-content-ltr" dir="ltr">
     
 <pre>   
-     
-/* Finds the lowest common multiple (LCM) of two numbers */
+   /* Finds the lowest common multiple (LCM) of two numbers */
 function LCMCalculator(x, y) { // constructor function
     let checkInt = function(x) { // inner function
         if (x % 1 !== 0)
