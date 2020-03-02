@@ -327,3 +327,109 @@ short_example(2);  // Returns 7.
 ```
 </div>
 
+<p>In JavaScript,&nbsp;<a title="Object (computer science)" href="https://en.wikipedia.org/wiki/Object_(computer_science)">objects</a>&nbsp;are created in the same way as functions; this is known as a&nbsp;<a title="Function object" href="https://en.wikipedia.org/wiki/Function_object">function object</a>.</p>
+<p>Object example:</p>
+<div class="mw-highlight mw-content-ltr" dir="ltr">
+    
+   ```JavaScript language
+function Ball(r) {
+    this.radius = r; // the radius variable is local to the ball object
+    this.area = pi * r ** 2;
+    this.show = function(){ // objects can contain functions
+        drawCircle(r); // references a circle drawing function
+    }
+}
+
+let myBall = new Ball(5); // creates a new instance of the ball object with radius 5
+myBall.show(); // this instance of the ball object has the show function performed on it
+```
+
+</div>
+<p><a title="Variadic function" href="https://en.wikipedia.org/wiki/Variadic_function">Variadic function</a>&nbsp;demonstration (<code>arguments</code>&nbsp;is a special&nbsp;<a class="mw-redirect" title="Variable (programming)" href="https://en.wikipedia.org/wiki/Variable_(programming)">variable</a>):</p>
+<div class="mw-highlight mw-content-ltr" dir="ltr">
+    
+    
+   ```JavaScript language
+function sum() {
+    let x = 0;
+
+    for (let i = 0; i < arguments.length; ++i)
+        x += arguments[i];
+
+    return x;
+}
+
+sum(1, 2); // returns 3
+sum(1, 2, 3); // returns 6
+```
+
+
+
+
+</div>
+<p><a class="mw-redirect" title="Immediately-invoked function expression" href="https://en.wikipedia.org/wiki/Immediately-invoked_function_expression">Immediately-invoked function expressions</a>&nbsp;are often used to create modules; before ECMAScript 2015 there was no built-in module construct in the language. Modules allow gathering properties and methods in a namespace and making some of them private:</p>
+<div class="mw-highlight mw-content-ltr" dir="ltr">
+    
+    
+    
+```JavaScript language
+let counter = (function() {
+    let i = 0; // private property
+
+    return {   // public methods
+        get: function() {
+            alert(i);
+        },
+        set: function(value) {
+            i = value;
+        },
+        increment: function() {
+            alert(++i);
+        }
+    };
+})(); // module
+
+counter.get();      // shows 0
+counter.set(6);
+counter.increment(); // shows 7
+counter.increment(); // shows 8
+```
+
+
+</div>
+<p>Exporting and Importing modules in javascript</p>
+<p>Export example:</p>
+<div class="mw-highlight mw-content-ltr" dir="ltr">
+    
+```JavaScript language
+/* mymodule.js */
+// This function remains private, as it is not exported
+let sum = (a, b) => {
+    return a + b;
+}
+
+// Export variables
+export let name = 'Alice';
+export let age = 23;
+
+// Export named functions
+export function add(num1, num2){
+    return num1 + num2;
+}
+
+// Export class
+export class Multiplication {
+    constructor(num1, num2) {
+        this.num1 = num1;
+        this.num2 = num2;
+    }
+
+    add() {
+        return sum(this.num1, this.num2);
+    }
+}
+```
+
+</div>
+
+
