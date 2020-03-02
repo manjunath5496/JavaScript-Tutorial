@@ -257,6 +257,29 @@
 <dt>Run-time evaluation</dt>
 <dd>JavaScript includes an&nbsp;<code><a title="Eval" href="https://en.wikipedia.org/wiki/Eval">eval</a></code>&nbsp;function that can execute statements provided as strings at run-time.</dd>
 </dl>
+</br>
+
+
+<table class="infobox biography vcard">
+<tbody>
+<tr>
+<td colspan="2"><strong><a class="image" href="Douglas_Crockford.jpg"><img src="Douglas_Crockford.jpg" srcset="Douglas_Crockford.jpg" alt="Douglas Crockford, February 2013.jpg" width="200" height="133" data-file-width="1600" data-file-height="1060" /></a></strong>
+<div><strong>Douglas Crockford (2013)</strong></div>
+</td>
+</tr>
+</tbody>
+</table>
+
+
+
+
+
+
+
+
+
+
+</br>
 <h3><span id="Object-orientation_.28prototype-based.29"></span><span id="Object-orientation_(prototype-based)" class="mw-headline">Object-orientation (prototype-based)</span></h3>
 <p>Prototypal inheritance in JavaScript is described by&nbsp;<a title="Douglas Crockford" href="https://en.wikipedia.org/wiki/Douglas_Crockford">Douglas Crockford</a>&nbsp;as:</p>
 <blockquote class="templatequote">
