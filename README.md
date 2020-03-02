@@ -681,6 +681,47 @@ LCMCalculator: a = 22, b = 58, gcd = 2, lcm = 638
 
 <li><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Tutorial/blob/master/js(27).pdf" style="text-decoration:none;">Web Animation using JavaScript</a></li>
 
+ <li><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Tutorial/blob/master/js(28).pdf" style="text-decoration:none;"> Learn JavaScript Visually </a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Tutorial/blob/master/js(29).pdf" style="text-decoration:none;">Learn NodeJS in 1 Day</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Tutorial/blob/master/js(30).pdf" style="text-decoration:none;">Sams Teach Yourself JavaScript in 24 Hours</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Tutorial/blob/master/js(31).pdf" style="text-decoration:none;">Secrets of the JavaScript Ninja</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Tutorial/blob/master/js(32).pdf" style="text-decoration:none;">Understanding ECMAScript 6: The Definitive Guide for JavaScript Developers</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Tutorial/blob/master/js(33).pdf" style="text-decoration:none;">You Don't Know JS: Async and Performance</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Tutorial/blob/master/js(34).pdf" style="text-decoration:none;">You Don't Know JS: Scope and Closures</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Tutorial/blob/master/js(35).pdf" style="text-decoration:none;">You Don't Know JS: this and Object Prototypes</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Tutorial/blob/master/js(36).pdf" style="text-decoration:none;"> Django JavaScript Integration: AJAX and jQuery</a></li>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Tutorial/blob/master/js(37).pdf" style="text-decoration:none;">ES6 for Humans - The Latest Standard of JavaScript: ES2015 and Beyond</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Tutorial/blob/master/js(38).pdf" style="text-decoration:none;">Javascript: Beginners Guide on Javascript Programming</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Tutorial/blob/master/js(39).pdf" style="text-decoration:none;">JavaScript Concurrency</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Tutorial/blob/master/js(40).pdf" style="text-decoration:none;">JavaScript Cookbook</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Tutorial/blob/master/js(41).pdf" style="text-decoration:none;"> JavaScript Creativity</a></li>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Tutorial/blob/master/js(42).pdf" style="text-decoration:none;">JavaScript for Absolute Beginners</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Tutorial/blob/master/js(43).pdf" style="text-decoration:none;">JavaScript JSON Cookbook</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Tutorial/blob/master/js(44).pdf" style="text-decoration:none;">JavaScript: Moving to ES2015</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Tutorial/blob/master/js(45).pdf" style="text-decoration:none;">JavaScript Tips & Secrets for Professionals</a></li>
+
+
+
+
+
+
+
+
 
 
 </ul>
