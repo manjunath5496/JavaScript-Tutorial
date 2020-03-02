@@ -4,6 +4,88 @@
 <p>Originally used only in web browsers, JavaScript engines are also now embedded in&nbsp;<a title="Server-side" href="https://en.wikipedia.org/wiki/Server-side">server-side</a>&nbsp;website deployments and non-browser applications.</p>
 <p>Although there are similarities between JavaScript and&nbsp;<a title="Java (programming language)" href="https://en.wikipedia.org/wiki/Java_(programming_language)">Java</a>, including language name,&nbsp;<a title="Syntax (programming languages)" href="https://en.wikipedia.org/wiki/Syntax_(programming_languages)">syntax</a>, and respective&nbsp;<a title="Standard library" href="https://en.wikipedia.org/wiki/Standard_library">standard libraries</a>, the two languages are distinct and differ greatly in design.</p>
 </br>
+
+<table class="infobox vevent"><caption class="summary">
+<p><strong>JavaScript</strong></p>
+<p>&nbsp;</p>
+<p><img src="JAVASCRIPT.png" alt="JavaScript logo" width="200" height="134" /></p>
+<p>&nbsp;</p>
+</caption>
+<tbody>
+<tr>
+<th scope="row"><a title="Programming paradigm" href="https://en.wikipedia.org/wiki/Programming_paradigm">Paradigm</a></th>
+<td><a title="Event-driven programming" href="https://en.wikipedia.org/wiki/Event-driven_programming">event-driven</a>,&nbsp;<a title="Functional programming" href="https://en.wikipedia.org/wiki/Functional_programming">functional</a>,&nbsp;<a title="Imperative programming" href="https://en.wikipedia.org/wiki/Imperative_programming">imperative</a></td>
+</tr>
+<tr>
+<th scope="row"><a title="Software design" href="https://en.wikipedia.org/wiki/Software_design">Designed&nbsp;by</a></th>
+<td><a title="Brendan Eich" href="https://en.wikipedia.org/wiki/Brendan_Eich">Brendan Eich</a>&nbsp;initially, plus other key contributors to the&nbsp;<a title="ECMAScript" href="https://en.wikipedia.org/wiki/ECMAScript">ECMAScript</a>&nbsp;specification</td>
+</tr>
+<tr>
+<th scope="row">First&nbsp;appeared</th>
+<td>December&nbsp;4, 1995<span class="noprint">; 24 years ago</span></td>
+</tr>
+<tr>
+<td colspan="2">&nbsp;</td>
+</tr>
+<tr>
+<th scope="row"><a title="Software release life cycle" href="https://en.wikipedia.org/wiki/Software_release_life_cycle">Stable release</a></th>
+<td>
+<div>ECMAScript 2019&nbsp;/ June&nbsp;2019<span class="noprint">; 8&nbsp;months ago</span></div>
+</td>
+</tr>
+<tr>
+<th scope="row"><a title="Software release life cycle" href="https://en.wikipedia.org/wiki/Software_release_life_cycle">Preview release</a></th>
+<td>
+<div>ECMAScript 2020</div>
+</td>
+</tr>
+<tr>
+<th scope="row"><a title="Type system" href="https://en.wikipedia.org/wiki/Type_system">Typing discipline</a></th>
+<td><a class="mw-redirect" title="Dynamic typing" href="https://en.wikipedia.org/wiki/Dynamic_typing">Dynamic</a>,&nbsp;<a title="Duck typing" href="https://en.wikipedia.org/wiki/Duck_typing">duck</a></td>
+</tr>
+<tr>
+<th scope="row"><a title="Filename extension" href="https://en.wikipedia.org/wiki/Filename_extension">Filename extensions</a></th>
+<td>
+<div class="hlist">
+<ul>
+<li><code>.js</code></li>
+<li><code>.mjs</code></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th colspan="2">Major&nbsp;<a title="Programming language implementation" href="https://en.wikipedia.org/wiki/Programming_language_implementation">implementations</a></th>
+</tr>
+<tr>
+<td colspan="2"><a title="V8 (JavaScript engine)" href="https://en.wikipedia.org/wiki/V8_(JavaScript_engine)">V8</a>,&nbsp;<a class="mw-redirect" title="JavaScriptCore" href="https://en.wikipedia.org/wiki/JavaScriptCore">JavaScriptCore</a>,&nbsp;<a class="mw-redirect" title="SpiderMonkey (JavaScript engine)" href="https://en.wikipedia.org/wiki/SpiderMonkey_(JavaScript_engine)">SpiderMonkey</a>,&nbsp;<a title="Chakra (JScript engine)" href="https://en.wikipedia.org/wiki/Chakra_(JScript_engine)">Chakra</a></td>
+</tr>
+<tr>
+<th colspan="2">Influenced by</th>
+</tr>
+<tr>
+<td colspan="2"><a title="AWK" href="https://en.wikipedia.org/wiki/AWK">AWK</a>,&nbsp;<a title="C (programming language)" href="https://en.wikipedia.org/wiki/C_(programming_language)">C</a>,&nbsp;<a title="HyperTalk" href="https://en.wikipedia.org/wiki/HyperTalk">HyperTalk</a>,&nbsp;<a title="Java (programming language)" href="https://en.wikipedia.org/wiki/Java_(programming_language)">Java</a>,&nbsp;<a title="Lua (programming language)" href="https://en.wikipedia.org/wiki/Lua_(programming_language)">Lua</a>,&nbsp;<a title="Perl" href="https://en.wikipedia.org/wiki/Perl">Perl</a>,&nbsp;<a title="Python (programming language)" href="https://en.wikipedia.org/wiki/Python_(programming_language)">Python</a>,&nbsp;<a title="Scheme (programming language)" href="https://en.wikipedia.org/wiki/Scheme_(programming_language)">Scheme</a>,&nbsp;<a title="Self (programming language)" href="https://en.wikipedia.org/wiki/Self_(programming_language)">Self</a></td>
+</tr>
+<tr>
+<th colspan="2">Influenced</th>
+</tr>
+<tr>
+<td colspan="2"><a title="ActionScript" href="https://en.wikipedia.org/wiki/ActionScript">ActionScript</a>,&nbsp;<a title="AtScript" href="https://en.wikipedia.org/wiki/AtScript">AtScript</a>,&nbsp;<a title="CoffeeScript" href="https://en.wikipedia.org/wiki/CoffeeScript">CoffeeScript</a>,&nbsp;<a title="Dart (programming language)" href="https://en.wikipedia.org/wiki/Dart_(programming_language)">Dart</a>,&nbsp;<a title="JScript .NET" href="https://en.wikipedia.org/wiki/JScript_.NET">JScript .NET</a>,&nbsp;<a title="LiveScript" href="https://en.wikipedia.org/wiki/LiveScript">LiveScript</a>,&nbsp;<a title="Objective-J" href="https://en.wikipedia.org/wiki/Objective-J">Objective-J</a>,&nbsp;<a title="Opa (programming language)" href="https://en.wikipedia.org/wiki/Opa_(programming_language)">Opa</a>,&nbsp;<a title="QML" href="https://en.wikipedia.org/wiki/QML">QML</a>,&nbsp;<a title="Raku (programming language)" href="https://en.wikipedia.org/wiki/Raku_(programming_language)">Raku</a>,&nbsp;<a title="TypeScript" href="https://en.wikipedia.org/wiki/TypeScript">TypeScript</a></td>
+</tr>
+<tr>
+<td class="hlist" colspan="2">
+<ul>
+<li><a class="image" href="logo.png"><img class="noviewer" src="logo.png" srcset="logo.png" alt="" width="16" height="16" data-file-width="400" data-file-height="400" /></a>&nbsp;<a class="extiw" title="wikibooks:JavaScript" href="https://en.wikibooks.org/wiki/JavaScript">JavaScript</a>&nbsp;at Wikibooks</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+
+</br>
+
+
+
 <div class="toctitle" dir="ltr" lang="en">
 <h2 id="mw-toc-heading">Contents</h2>
 <label class="toctogglelabel" for="toctogglecheckbox"></label></div>
