@@ -11,11 +11,9 @@
 <tbody>
     
  <tr>
-    <p><strong>JavaScript</strong></p>
-<p>&nbsp;</p>
+ 
 <p><img src="JAVASCRIPT.png" alt="JavaScript logo" width="200" height="134" /></p>
-<p>&nbsp;</p>
-    
+   
 </tr>
         
 <tr>
@@ -80,9 +78,9 @@
 </tr>
 <tr>
 <td class="hlist" colspan="2">
-<ul>
-<li><a class="image" href="logo.png"><img class="noviewer" src="logo.png" srcset="logo.png" alt="" width="16" height="16" data-file-width="400" data-file-height="400" /></a>&nbsp;<a class="extiw" title="wikibooks:JavaScript" href="https://en.wikibooks.org/wiki/JavaScript">JavaScript</a>&nbsp;at Wikibooks</li>
-</ul>
+
+<p><a class="image" href="logo.png"><img class="noviewer" src="logo.png" srcset="logo.png" alt="" width="16" height="16" data-file-width="400" data-file-height="400" /></a>&nbsp;<a class="extiw" title="wikibooks:JavaScript" href="https://en.wikibooks.org/wiki/JavaScript">JavaScript</a>&nbsp;at Wikibooks</p>
+
 </td>
 </tr>
 </tbody>
