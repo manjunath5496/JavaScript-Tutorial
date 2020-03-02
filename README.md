@@ -153,6 +153,22 @@
 </div>
 
 <h2><span id="History" class="mw-headline">History</span></h2>
+</br>
+
+<table class="infobox biography vcard">
+<tbody>
+<tr style="height: 235px;">
+<td style="height: 235px;" colspan="2"><a class="image" href="Brendan_Eich.jpg"><img src="Brendan_Eich.jpg" srcset="Brendan_Eich.jpg" alt="Brendan Eich Mozilla Foundation official photo.jpg" width="220" height="220" data-file-width="2100" data-file-height="2100" /></a>
+<div><strong>Brendan Eich,&nbsp; August 21, 2012</strong></div>
+</td>
+</tr>
+</tbody>
+</table>
+</br>
+
+
+
+
 <h3><span id="Creation_at_Netscape" class="mw-headline">Creation at Netscape</span></h3>
 <p>The&nbsp;<a title="Mosaic (web browser)" href="https://en.wikipedia.org/wiki/Mosaic_(web_browser)">Mosaic</a>&nbsp;<a title="Web browser" href="https://en.wikipedia.org/wiki/Web_browser">web browser</a>&nbsp;was released in 1993. As the first browser with a&nbsp;<a title="Graphical user interface" href="https://en.wikipedia.org/wiki/Graphical_user_interface">graphical user interface</a>&nbsp;accessible to non-technical people, it played a prominent role in the rapid growth of the nascent&nbsp;<a title="World Wide Web" href="https://en.wikipedia.org/wiki/World_Wide_Web">World Wide Web</a>.&nbsp;The lead developers of Mosaic then founded the&nbsp;<a title="Netscape" href="https://en.wikipedia.org/wiki/Netscape">Netscape</a>&nbsp;corporation, which released a more polished browser,&nbsp;<a title="Netscape Navigator" href="https://en.wikipedia.org/wiki/Netscape_Navigator">Netscape Navigator</a>, in 1994. Navigator quickly became the most used browser.</p>
 <p>During these formative years of the Web,&nbsp;<a title="Web page" href="https://en.wikipedia.org/wiki/Web_page">web pages</a>&nbsp;could only be static, lacking the capability for dynamic behavior after the page was loaded in the browser. There was a desire in the burgeoning web development scene to remove this limitation, so in 1995, Netscape decided to add a&nbsp;<a title="Scripting language" href="https://en.wikipedia.org/wiki/Scripting_language">scripting language</a>&nbsp;to Navigator. They pursued two routes to achieve this: collaborating with&nbsp;<a title="Sun Microsystems" href="https://en.wikipedia.org/wiki/Sun_Microsystems">Sun Microsystems</a>&nbsp;to embed the&nbsp;<a title="Java (programming language)" href="https://en.wikipedia.org/wiki/Java_(programming_language)">Java</a>&nbsp;<a title="Programming language" href="https://en.wikipedia.org/wiki/Programming_language">programming language</a>, while also hiring&nbsp;<a title="Brendan Eich" href="https://en.wikipedia.org/wiki/Brendan_Eich">Brendan Eich</a>&nbsp;to embed the&nbsp;<a title="Scheme (programming language)" href="https://en.wikipedia.org/wiki/Scheme_(programming_language)">Scheme</a>&nbsp;language.</p>
