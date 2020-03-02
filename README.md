@@ -754,9 +754,38 @@ LCMCalculator: a = 22, b = 58, gcd = 2, lcm = 638
 
 <li><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Tutorial/blob/master/js(62).pdf" style="text-decoration:none;">Beginning JavaScript with DOM Scripting and Ajax</a></li>
 
+ <li><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Tutorial/blob/master/js(63).pdf" style="text-decoration:none;">Bootstrap 4 Site Blueprints</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Tutorial/blob/master/js(64).pdf" style="text-decoration:none;">Building Isomorphic JavaScript Apps: From Concept to Implementation to Real-World Solutions</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Tutorial/blob/master/js(65).pdf" style="text-decoration:none;">Electron in Action</a></li>
 
 
+<li><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Tutorial/blob/master/js(66).pdf" style="text-decoration:none;">JavaScript for impatient programmers</a></li>
 
+<li><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Tutorial/blob/master/js(67).pdf" style="text-decoration:none;">Introduction to JavaScript Object Notation</a></li>
+
+
+<li><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Tutorial/blob/master/js(68).pdf" style="text-decoration:none;">JavaScript for .NET Developers</a></li>
+
+
+<li><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Tutorial/blob/master/js(69).pdf" style="text-decoration:none;">JavaScript on Things. Hacking hardware for web developers</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Tutorial/blob/master/js(70).pdf" style="text-decoration:none;">Javascript Awesomeness: Learn to write Javascript the awesome way</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Tutorial/blob/master/js(71).pdf" style="text-decoration:none;">Test-Driven JavaScript Development</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Tutorial/blob/master/js(72).pdf" style="text-decoration:none;">The JavaScript Way: A modern introduction to an essential language</a></li>
+
+
+<li><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Tutorial/blob/master/js(73).pdf" style="text-decoration:none;">The Principles of Object-Oriented Javascript</a></li>
+
+
+<li><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Tutorial/blob/master/js(74).pdf" style="text-decoration:none;">Supercharged JavaScript Graphics</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Tutorial/blob/master/js(75).pdf" style="text-decoration:none;">A Software Engineer Learns HTML5, JavaScript and jQuery</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Tutorial/blob/master/js(76).pdf" style="text-decoration:none;">Beginning AngularJS </a></li>
 
 </ul>
   
