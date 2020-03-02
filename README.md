@@ -627,7 +627,6 @@ LCMCalculator: a = 22, b = 58, gcd = 2, lcm = 638
 <h3><span id="WebAssembly" class="mw-headline">WebAssembly</span></h3>
 <p>Since 2017, web browsers have supported&nbsp;<a title="WebAssembly" href="https://en.wikipedia.org/wiki/WebAssembly">WebAssembly</a>, a binary format that enables a&nbsp;<a title="JavaScript engine" href="https://en.wikipedia.org/wiki/JavaScript_engine">JavaScript engine</a>&nbsp;to execute performance-critical portions of&nbsp;<a title="Web page" href="https://en.wikipedia.org/wiki/Web_page">web page</a>&nbsp;scripts close to native speed.&nbsp;WebAssembly code runs in the same&nbsp;<a title="Sandbox (computer security)" href="https://en.wikipedia.org/wiki/Sandbox_(computer_security)">sandbox</a>&nbsp;as regular JavaScript code.</p>
 <p><a title="Asm.js" href="https://en.wikipedia.org/wiki/Asm.js">asm.js</a>&nbsp;is a subset of JavaScript that served as the forerunner of WebAssembly.</p>
-<p>&nbsp;</p>
 <h3><span id="Transpilers" class="mw-headline">Transpilers</span></h3>
 <p>JavaScript is the dominant client-side language of the Web, and many websites are script-heavy. Thus&nbsp;<a class="mw-redirect" title="Transpiler" href="https://en.wikipedia.org/wiki/Transpiler">transpilers</a>&nbsp;have been created to convert code written in other languages, which can aid the development process.</p>
 
