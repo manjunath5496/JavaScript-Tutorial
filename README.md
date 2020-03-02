@@ -458,13 +458,12 @@ console.log(add(1,2));
 </div>
 
 
-
 <h3><span id="More_advanced_example" class="mw-headline">More advanced example</span></h3>
 <p>This sample code displays various JavaScript features.</p>
 <div class="mw-highlight mw-content-ltr" dir="ltr">
     
-    
-    ```JavaScript language
+<pre>   
+     
 /* Finds the lowest common multiple (LCM) of two numbers */
 function LCMCalculator(x, y) { // constructor function
     let checkInt = function(x) { // inner function
@@ -550,7 +549,7 @@ function output(x) {
 function printResult(obj) {
     output(obj + ", gcd = " + obj.gcd() + ", lcm = " + obj.lcm());
 }
-```
+</pre>
 
 </div>
 
