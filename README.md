@@ -716,9 +716,43 @@ LCMCalculator: a = 22, b = 58, gcd = 2, lcm = 638
 <li><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Tutorial/blob/master/js(45).pdf" style="text-decoration:none;">JavaScript Tips and Secrets for Professionals</a></li>
 
 
+ <li><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Tutorial/blob/master/js(46).pdf" style="text-decoration:none;">JavaScript and JQuery: The Missing Manual</a></li>
 
 
+ <li><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Tutorial/blob/master/js(47).pdf" style="text-decoration:none;">JavaScript 2.0 - The Complete Reference</a></li>
 
+ <li><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Tutorial/blob/master/js(48).rar" style="text-decoration:none;">JavaScript by Example</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Tutorial/blob/master/js(49).pdf" style="text-decoration:none;">JavaScript Essentials for SAP ABAP Developers</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Tutorial/blob/master/js(50).pdf" style="text-decoration:none;">JavaScript Testing Beginner's Guide</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Tutorial/blob/master/js(51).pdf" style="text-decoration:none;"> Learning Three.js – the JavaScript 3D Library for WebGL</a></li>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Tutorial/blob/master/js(52).pdf" style="text-decoration:none;">Mastering JavaScript Promises</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Tutorial/blob/master/js(53).pdf" style="text-decoration:none;">Mastering React Native</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Tutorial/blob/master/js(54).pdf" style="text-decoration:none;">JavaScript Demystified</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Tutorial/blob/master/js(55).pdf" style="text-decoration:none;">Professional JavaScript Frameworks</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Tutorial/blob/master/js(56).pdf" style="text-decoration:none;"> Starting Programming With JavaScript: Fundamentals Of The JavaScript Computer Language From Someone Who Has Taught It</a></li>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Tutorial/blob/master/js(57).pdf" style="text-decoration:none;">The Road to learn React</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Tutorial/blob/master/js(58).pdf" style="text-decoration:none;">Vue.js: Up and Running</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Tutorial/blob/master/js(59).pdf" style="text-decoration:none;">JavaScript Programmer's Reference</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Tutorial/blob/master/js(60).pdf" style="text-decoration:none;">You Don't Know JS: ES6 and Beyond</a></li>
+
+
+<li><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Tutorial/blob/master/js(61).pdf" style="text-decoration:none;">You Don't Know JS: Up and Going</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Tutorial/blob/master/js(62).pdf" style="text-decoration:none;">Beginning JavaScript with DOM Scripting and Ajax</a></li>
 
 
 
