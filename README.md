@@ -553,3 +553,91 @@ function printResult(obj) {
 </div>
 
 
+
+
+<p>The following output should be displayed in the browser window.</p>
+<div class="mw-highlight mw-content-ltr" dir="ltr">
+
+```JavaScript language
+LCMCalculator: a = 28, b = 56, gcd = 28, lcm = 56
+LCMCalculator: a = 21, b = 56, gcd = 7, lcm = 168
+LCMCalculator: a = 25, b = 55, gcd = 5, lcm = 275
+LCMCalculator: a = 22, b = 58, gcd = 2, lcm = 638
+```
+
+</div>
+<h2><span id="Security" class="mw-headline">Security</span></h2>
+<p>JavaScript and the&nbsp;<a title="Document Object Model" href="https://en.wikipedia.org/wiki/Document_Object_Model">DOM</a>&nbsp;provide the potential for malicious authors to deliver scripts to run on a client computer via the Web. Browser authors minimize this risk using two restrictions. First, scripts run in a&nbsp;<a title="Sandbox (computer security)" href="https://en.wikipedia.org/wiki/Sandbox_(computer_security)">sandbox</a>&nbsp;in which they can only perform Web-related actions, not general-purpose programming tasks like creating files. Second, scripts are constrained by the&nbsp;<a title="Same-origin policy" href="https://en.wikipedia.org/wiki/Same-origin_policy">same-origin policy</a>: scripts from one Web site do not have access to information such as usernames, passwords, or cookies sent to another site. Most JavaScript-related security bugs are breaches of either the same origin policy or the sandbox.</p>
+<p>There are subsets of general JavaScript&mdash;ADsafe, Secure ECMAScript (SES)&mdash;that provide greater levels of security, especially on code created by third parties (such as advertisements).&nbsp;<a title="Caja project" href="https://en.wikipedia.org/wiki/Caja_project">Caja</a>&nbsp;is another project for safe embedding and isolation of third-party JavaScript and HTML.</p>
+<p><a title="Content Security Policy" href="https://en.wikipedia.org/wiki/Content_Security_Policy">Content Security Policy</a>&nbsp;is the main intended method of ensuring that only trusted code is executed on a Web page.</p>
+<div class="hatnote navigation-not-searchable">&nbsp;</div>
+<h3><span id="Cross-site_vulnerabilities" class="mw-headline">Cross-site vulnerabilities</span></h3>
+<p>A common JavaScript-related security problem is&nbsp;<a title="Cross-site scripting" href="https://en.wikipedia.org/wiki/Cross-site_scripting">cross-site scripting</a>&nbsp;(XSS), a violation of the&nbsp;<a title="Same-origin policy" href="https://en.wikipedia.org/wiki/Same-origin_policy">same-origin policy</a>. XSS vulnerabilities occur when an attacker is able to cause a target Web site, such as an online banking website, to include a malicious script in the webpage presented to a victim. The script in this example can then access the banking application with the privileges of the victim, potentially disclosing secret information or transferring money without the victim's authorization. A solution to XSS vulnerabilities is to use&nbsp;<em>HTML escaping</em>&nbsp;whenever displaying untrusted data.</p>
+<p>Some browsers include partial protection against&nbsp;<em>reflected</em>&nbsp;XSS attacks, in which the attacker provides a URL including malicious script. However, even users of those browsers are vulnerable to other XSS attacks, such as those where the malicious code is stored in a database. Only correct design of Web applications on the server side can fully prevent XSS.</p>
+<p>XSS vulnerabilities can also occur because of implementation mistakes by browser authors.</p>
+<p>Another cross-site vulnerability is&nbsp;<a title="Cross-site request forgery" href="https://en.wikipedia.org/wiki/Cross-site_request_forgery">cross-site request forgery</a>&nbsp;(CSRF). In CSRF, code on an attacker's site tricks the victim's browser into taking actions the user did not intend at a target site (like transferring money at a bank). When target sites rely solely on cookies for request authentication, requests originating from code on the attacker's site can carry the same valid login credentials of the initiating user. In general, the solution to CSRF is to require an authentication value in a hidden form field, and not only in the cookies, to authenticate any request that might have lasting effects. Checking the HTTP Referrer header can also help.</p>
+<p>"JavaScript hijacking" is a type of CSRF attack in which a&nbsp;<code>&lt;script&gt;</code>&nbsp;tag on an attacker's site exploits a page on the victim's site that returns private information such as&nbsp;<a title="JSON" href="https://en.wikipedia.org/wiki/JSON">JSON</a>&nbsp;or JavaScript. Possible solutions include:</p>
+<ul>
+<li>requiring an authentication token in the&nbsp;<a title="POST (HTTP)" href="https://en.wikipedia.org/wiki/POST_(HTTP)">POST</a>&nbsp;and&nbsp;<a class="mw-redirect" title="GET (HTTP)" href="https://en.wikipedia.org/wiki/GET_(HTTP)">GET</a>&nbsp;parameters for any response that returns private information.</li>
+</ul>
+<h3><span id="Misplaced_trust_in_the_client" class="mw-headline">Misplaced trust in the client</span></h3>
+<p>Developers of client-server applications must recognize that untrusted clients may be under the control of attackers. The application author cannot assume that their JavaScript code will run as intended (or at all) because any secret embedded in the code could be extracted by a determined adversary. Some implications are:</p>
+<ul>
+<li>Web site authors cannot perfectly conceal how their JavaScript operates because the raw source code must be sent to the client. The code can be&nbsp;<a class="mw-redirect" title="Obfuscated code" href="https://en.wikipedia.org/wiki/Obfuscated_code">obfuscated</a>, but obfuscation can be reverse-engineered.</li>
+<li>JavaScript form validation only provides convenience for users, not security. If a site verifies that the user agreed to its terms of service, or filters invalid characters out of fields that should only contain numbers, it must do so on the server, not only the client.</li>
+<li>Scripts can be selectively disabled, so JavaScript cannot be relied on to prevent operations such as right-clicking on an image to save it.</li>
+<li>It is considered very bad practice to embed sensitive information such as passwords in JavaScript because it can be extracted by an attacker.</li>
+</ul>
+<h3><span id="Misplaced_trust_in_developers" class="mw-headline">Misplaced trust in developers</span></h3>
+<p>Package management systems such as&nbsp;<a title="Npm (software)" href="https://en.wikipedia.org/wiki/Npm_(software)">npm</a>&nbsp;and Bower are popular with JavaScript developers. Such systems allow a developer to easily manage their program's dependencies upon other developer's program libraries. Developers trust that the maintainers of the libraries will keep them secure and up to date, but that is not always the case. A vulnerability has emerged because of this blind trust. Relied-upon libraries can have new releases that cause bugs or vulnerabilities to appear in all programs that rely upon the libraries. Inversely, a library can go unpatched with known vulnerabilities out in the wild. In a study done looking over a sample of 133k websites, researchers found 37% of the websites included a library with at least one known vulnerability.&nbsp;"The median lag between the oldest library version used on each website and the newest available version of that library is 1,177 days in ALEXA, and development of some libraries still in active use ceased years ago."&nbsp;Another possibility is that the maintainer of a library may remove the library entirely. This occurred in March 2016 when Azer Ko&ccedil;ulu removed his repository from&nbsp;<a title="Npm (software)" href="https://en.wikipedia.org/wiki/Npm_(software)">npm</a>. This caused all tens of thousands of programs and websites depending upon his libraries to break.</p>
+<h3><span id="Browser_and_plugin_coding_errors" class="mw-headline">Browser and plugin coding errors</span></h3>
+<p>JavaScript provides an interface to a wide range of browser capabilities, some of which may have flaws such as&nbsp;<a title="Buffer overflow" href="https://en.wikipedia.org/wiki/Buffer_overflow">buffer overflows</a>. These flaws can allow attackers to write scripts that would run any code they wish on the user's system. This code is not by any means limited to another JavaScript application. For example, a buffer overrun exploit can allow an attacker to gain access to the operating system's&nbsp;<a class="mw-redirect" title="API" href="https://en.wikipedia.org/wiki/API">API</a>&nbsp;with superuser privileges.</p>
+<p>These flaws have affected major browsers including Firefox,&nbsp;Internet Explorer,&nbsp;and Safari.</p>
+<p>Plugins, such as video players,&nbsp;<a title="Adobe Flash" href="https://en.wikipedia.org/wiki/Adobe_Flash#Flash_client_security">Adobe Flash</a>, and the wide range of&nbsp;<a title="ActiveX" href="https://en.wikipedia.org/wiki/ActiveX">ActiveX</a>&nbsp;controls enabled by default in Microsoft Internet Explorer, may also have flaws exploitable via JavaScript (such flaws have been exploited in the past).</p>
+<p>In Windows Vista, Microsoft has attempted to contain the risks of bugs such as buffer overflows by running the Internet Explorer process with limited privileges.&nbsp;<a title="Google Chrome" href="https://en.wikipedia.org/wiki/Google_Chrome">Google Chrome</a>&nbsp;similarly confines its page renderers to their own "sandbox".</p>
+<h3><span id="Sandbox_implementation_errors" class="mw-headline">Sandbox implementation errors</span></h3>
+<p>Web browsers are capable of running JavaScript outside the sandbox, with the privileges necessary to, for example, create or delete files. Such privileges are not intended to be granted to code from the Web.</p>
+<p>Incorrectly granting privileges to JavaScript from the Web has played a role in vulnerabilities in both Internet Explorer&nbsp;and Firefox.&nbsp;In Windows XP Service Pack 2, Microsoft demoted JScript's privileges in Internet Explorer.</p>
+<p><a title="Microsoft Windows" href="https://en.wikipedia.org/wiki/Microsoft_Windows">Microsoft Windows</a>&nbsp;allows JavaScript source files on a computer's hard drive to be launched as general-purpose, non-sandboxed programs. This makes JavaScript (like&nbsp;<a title="VBScript" href="https://en.wikipedia.org/wiki/VBScript">VBScript</a>) a theoretically viable vector for a&nbsp;<a title="Trojan horse (computing)" href="https://en.wikipedia.org/wiki/Trojan_horse_(computing)">Trojan horse</a>, although JavaScript Trojan horses are uncommon in practice.</p>
+<h3><span id="Hardware_vulnerabilities" class="mw-headline">Hardware vulnerabilities</span></h3>
+<p>In 2015, a JavaScript-based proof-of-concept implementation of a&nbsp;<a class="mw-redirect" title="Rowhammer" href="https://en.wikipedia.org/wiki/Rowhammer">rowhammer</a>&nbsp;attack was described in a paper by security researchers.<sup id="cite_ref-81" class="reference"></sup></p>
+<p>In 2017, a JavaScript-based attack via browser was demonstrated that could bypass&nbsp;<a title="Address space layout randomization" href="https://en.wikipedia.org/wiki/Address_space_layout_randomization">ASLR</a>. It's called "ASLR&oplus;Cache" or AnC.<sup id="cite_ref-83" class="reference"></sup></p>
+<p>In 2018, the paper that announced the&nbsp;<a title="Spectre (security vulnerability)" href="https://en.wikipedia.org/wiki/Spectre_(security_vulnerability)">Spectre</a>&nbsp;attacks against Speculative Execution in Intel and other processors included a JavaScript implementation.</p>
+<h2><span id="Development_tools" class="mw-headline">Development tools</span></h2>
+<p>Important tools have evolved with the language.</p>
+<ul>
+<li>Every major web browser has built-in&nbsp;<a title="Web development tools" href="https://en.wikipedia.org/wiki/Web_development_tools">web development tools</a>, including a JavaScript&nbsp;<a title="Debugger" href="https://en.wikipedia.org/wiki/Debugger">debugger</a>.</li>
+</ul>
+<ul>
+<li><a title="Static program analysis" href="https://en.wikipedia.org/wiki/Static_program_analysis">Static program analysis</a>&nbsp;tools, such as&nbsp;<a title="ESLint" href="https://en.wikipedia.org/wiki/ESLint">ESLint</a>&nbsp;and&nbsp;<a title="JSLint" href="https://en.wikipedia.org/wiki/JSLint">JSLint</a>, scan JavaScript code for conformance to a set of standards and guidelines.</li>
+</ul>
+<ul>
+<li>Some browsers have built-in&nbsp;<a title="Profiling (computer programming)" href="https://en.wikipedia.org/wiki/Profiling_(computer_programming)">profilers</a>. Stand-alone profiling libraries have also been created, such as benchmark.js and jsbench.<sup id="cite_ref-auto1_86-0" class="reference"></sup></li>
+</ul>
+<ul>
+<li>Many&nbsp;<a title="Text editor" href="https://en.wikipedia.org/wiki/Text_editor">text editors</a>&nbsp;have syntax highlighting support for JavaScript code.</li>
+</ul>
+<h2><span id="Related_technologies" class="mw-headline">Related technologies</span></h2>
+<h3><span id="Java" class="mw-headline">Java</span></h3>
+<p>A common misconception is that JavaScript is similar or closely related to&nbsp;<a title="Java (programming language)" href="https://en.wikipedia.org/wiki/Java_(programming_language)">Java</a>. It is true that both have a C-like syntax (the C language being their most immediate common ancestor language). They also are both typically&nbsp;<a title="Sandbox (computer security)" href="https://en.wikipedia.org/wiki/Sandbox_(computer_security)">sandboxed</a>&nbsp;(when used inside a browser), and JavaScript was designed with Java's syntax and standard library in mind. In particular, all Java keywords were reserved in original JavaScript, JavaScript's standard library follows Java's naming conventions, and JavaScript's&nbsp;<code id="" class="mw-highlight" dir="ltr"><span class="nb">Math</span></code>&nbsp;and&nbsp;<code id="" class="mw-highlight" dir="ltr"><span class="nb">Date</span></code>&nbsp;objects are based on classes from Java 1.0,&nbsp;but the similarities end there.</p>
+<p><a title="Java (programming language)" href="https://en.wikipedia.org/wiki/Java_(programming_language)">Java</a>&nbsp;and JavaScript both first appeared in 1995, but Java was developed by&nbsp;<a title="James Gosling" href="https://en.wikipedia.org/wiki/James_Gosling">James Gosling</a>&nbsp;of Sun Microsystems, and JavaScript by&nbsp;<a title="Brendan Eich" href="https://en.wikipedia.org/wiki/Brendan_Eich">Brendan Eich</a>&nbsp;of Netscape Communications.</p>
+<p>The differences between the two languages are more prominent than their similarities. Java has&nbsp;<a class="mw-redirect" title="Static typing" href="https://en.wikipedia.org/wiki/Static_typing">static typing</a>, while JavaScript's typing is&nbsp;<a class="mw-redirect" title="Dynamic typing" href="https://en.wikipedia.org/wiki/Dynamic_typing">dynamic</a>. Java is loaded from compiled bytecode, while JavaScript is loaded as human-readable source code. Java's objects are&nbsp;<a title="Class-based programming" href="https://en.wikipedia.org/wiki/Class-based_programming">class-based</a>, while JavaScript's are&nbsp;<a title="Prototype-based programming" href="https://en.wikipedia.org/wiki/Prototype-based_programming">prototype-based</a>. Finally, Java did not support functional programming until Java 8, while JavaScript has done so from the beginning, being influenced by&nbsp;<a title="Scheme (programming language)" href="https://en.wikipedia.org/wiki/Scheme_(programming_language)">Scheme</a>.</p>
+<h3><span id="JSON" class="mw-headline">JSON</span></h3>
+<p><a title="JSON" href="https://en.wikipedia.org/wiki/JSON">JSON</a>, or JavaScript Object Notation, is a general-purpose data interchange format that is defined as a subset of JavaScript's object literal syntax.</p>
+<h3><span id="WebAssembly" class="mw-headline">WebAssembly</span></h3>
+<p>Since 2017, web browsers have supported&nbsp;<a title="WebAssembly" href="https://en.wikipedia.org/wiki/WebAssembly">WebAssembly</a>, a binary format that enables a&nbsp;<a title="JavaScript engine" href="https://en.wikipedia.org/wiki/JavaScript_engine">JavaScript engine</a>&nbsp;to execute performance-critical portions of&nbsp;<a title="Web page" href="https://en.wikipedia.org/wiki/Web_page">web page</a>&nbsp;scripts close to native speed.&nbsp;WebAssembly code runs in the same&nbsp;<a title="Sandbox (computer security)" href="https://en.wikipedia.org/wiki/Sandbox_(computer_security)">sandbox</a>&nbsp;as regular JavaScript code.</p>
+<p><a title="Asm.js" href="https://en.wikipedia.org/wiki/Asm.js">asm.js</a>&nbsp;is a subset of JavaScript that served as the forerunner of WebAssembly.</p>
+<p>&nbsp;</p>
+<h3><span id="Transpilers" class="mw-headline">Transpilers</span></h3>
+<p>JavaScript is the dominant client-side language of the Web, and many websites are script-heavy. Thus&nbsp;<a class="mw-redirect" title="Transpiler" href="https://en.wikipedia.org/wiki/Transpiler">transpilers</a>&nbsp;have been created to convert code written in other languages, which can aid the development process.</p>
+<h2>&nbsp;</h2>
+
+
+
+
+
+
+
+
+
+
