@@ -308,7 +308,7 @@ closure(); // returns 3
 <p>Example of arrow function:</p>
 <div class="mw-highlight mw-content-ltr" dir="ltr">
     
-    ```JavaScript language
+  ```JavaScript language
 // Arrow functions let us omit the `function` keyword. Here `long_example`
 // points to an anonymous function value.
 const long_example = (input1, input2) => {
