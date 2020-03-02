@@ -16,9 +16,8 @@
 <p><img src="JAVASCRIPT.png" alt="JavaScript logo" width="200" height="134" /></p>
 <p>&nbsp;</p>
     
-    </tr>
-    
-    
+</tr>
+        
 <tr>
 <th scope="row"><a title="Programming paradigm" href="https://en.wikipedia.org/wiki/Programming_paradigm">Paradigm</a></th>
 <td><a title="Event-driven programming" href="https://en.wikipedia.org/wiki/Event-driven_programming">event-driven</a>,&nbsp;<a title="Functional programming" href="https://en.wikipedia.org/wiki/Functional_programming">functional</a>,&nbsp;<a title="Imperative programming" href="https://en.wikipedia.org/wiki/Imperative_programming">imperative</a></td>
