@@ -64,3 +64,73 @@
 </li>
 </ul>
 </div>
+
+-------
+
+
+
+<div class="toctitle" dir="ltr" lang="en">
+<h2 id="mw-toc-heading">Contents</h2>
+<label class="toctogglelabel" for="toctogglecheckbox"></label></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="https://en.wikipedia.org/wiki/JavaScript#History"><span class="tocnumber">1</span><span class="toctext">History</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="https://en.wikipedia.org/wiki/JavaScript#Creation_at_Netscape"><span class="tocnumber">1.1</span><span class="toctext">Creation at Netscape</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="https://en.wikipedia.org/wiki/JavaScript#Adoption_by_Microsoft"><span class="tocnumber">1.2</span><span class="toctext">Adoption by Microsoft</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="https://en.wikipedia.org/wiki/JavaScript#The_rise_of_JScript"><span class="tocnumber">1.3</span><span class="toctext">The rise of JScript</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="https://en.wikipedia.org/wiki/JavaScript#Growth_and_standardization"><span class="tocnumber">1.4</span><span class="toctext">Growth and standardization</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="https://en.wikipedia.org/wiki/JavaScript#Reaching_maturity"><span class="tocnumber">1.5</span><span class="toctext">Reaching maturity</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="https://en.wikipedia.org/wiki/JavaScript#Trademark"><span class="tocnumber">2</span><span class="toctext">Trademark</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="https://en.wikipedia.org/wiki/JavaScript#Website_client-side_usage"><span class="tocnumber">3</span><span class="toctext">Website client-side usage</span></a>
+<ul>
+<li class="toclevel-2 tocsection-9"><a href="https://en.wikipedia.org/wiki/JavaScript#Examples_of_scripted_behavior"><span class="tocnumber">3.1</span><span class="toctext">Examples of scripted behavior</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="https://en.wikipedia.org/wiki/JavaScript#Libraries_and_frameworks"><span class="tocnumber">3.2</span><span class="toctext">Libraries and frameworks</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-11"><a href="https://en.wikipedia.org/wiki/JavaScript#Other_usage"><span class="tocnumber">4</span><span class="toctext">Other usage</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="https://en.wikipedia.org/wiki/JavaScript#Features"><span class="tocnumber">5</span><span class="toctext">Features</span></a>
+<ul>
+<li class="toclevel-2 tocsection-13"><a href="https://en.wikipedia.org/wiki/JavaScript#Imperative_and_structured"><span class="tocnumber">5.1</span><span class="toctext">Imperative and structured</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="https://en.wikipedia.org/wiki/JavaScript#Weakly_typed"><span class="tocnumber">5.2</span><span class="toctext">Weakly typed</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="https://en.wikipedia.org/wiki/JavaScript#Dynamic"><span class="tocnumber">5.3</span><span class="toctext">Dynamic</span></a></li>
+<li class="toclevel-2 tocsection-16"><a href="https://en.wikipedia.org/wiki/JavaScript#Object-orientation_(prototype-based)"><span class="tocnumber">5.4</span><span class="toctext">Object-orientation (prototype-based)</span></a></li>
+<li class="toclevel-2 tocsection-17"><a href="https://en.wikipedia.org/wiki/JavaScript#Functional"><span class="tocnumber">5.5</span><span class="toctext">Functional</span></a></li>
+<li class="toclevel-2 tocsection-18"><a href="https://en.wikipedia.org/wiki/JavaScript#Delegative"><span class="tocnumber">5.6</span><span class="toctext">Delegative</span></a></li>
+<li class="toclevel-2 tocsection-19"><a href="https://en.wikipedia.org/wiki/JavaScript#Miscellaneous"><span class="tocnumber">5.7</span><span class="toctext">Miscellaneous</span></a></li>
+<li class="toclevel-2 tocsection-20"><a href="https://en.wikipedia.org/wiki/JavaScript#Vendor-specific_extensions"><span class="tocnumber">5.8</span><span class="toctext">Vendor-specific extensions</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-21"><a href="https://en.wikipedia.org/wiki/JavaScript#Syntax"><span class="tocnumber">6</span><span class="toctext">Syntax</span></a>
+<ul>
+<li class="toclevel-2 tocsection-22"><a href="https://en.wikipedia.org/wiki/JavaScript#Simple_examples"><span class="tocnumber">6.1</span><span class="toctext">Simple examples</span></a></li>
+<li class="toclevel-2 tocsection-23"><a href="https://en.wikipedia.org/wiki/JavaScript#More_advanced_example"><span class="tocnumber">6.2</span><span class="toctext">More advanced example</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-24"><a href="https://en.wikipedia.org/wiki/JavaScript#Security"><span class="tocnumber">7</span><span class="toctext">Security</span></a>
+<ul>
+<li class="toclevel-2 tocsection-25"><a href="https://en.wikipedia.org/wiki/JavaScript#Cross-site_vulnerabilities"><span class="tocnumber">7.1</span><span class="toctext">Cross-site vulnerabilities</span></a></li>
+<li class="toclevel-2 tocsection-26"><a href="https://en.wikipedia.org/wiki/JavaScript#Misplaced_trust_in_the_client"><span class="tocnumber">7.2</span><span class="toctext">Misplaced trust in the client</span></a></li>
+<li class="toclevel-2 tocsection-27"><a href="https://en.wikipedia.org/wiki/JavaScript#Misplaced_trust_in_developers"><span class="tocnumber">7.3</span><span class="toctext">Misplaced trust in developers</span></a></li>
+<li class="toclevel-2 tocsection-28"><a href="https://en.wikipedia.org/wiki/JavaScript#Browser_and_plugin_coding_errors"><span class="tocnumber">7.4</span><span class="toctext">Browser and plugin coding errors</span></a></li>
+<li class="toclevel-2 tocsection-29"><a href="https://en.wikipedia.org/wiki/JavaScript#Sandbox_implementation_errors"><span class="tocnumber">7.5</span><span class="toctext">Sandbox implementation errors</span></a></li>
+<li class="toclevel-2 tocsection-30"><a href="https://en.wikipedia.org/wiki/JavaScript#Hardware_vulnerabilities"><span class="tocnumber">7.6</span><span class="toctext">Hardware vulnerabilities</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-31"><a href="https://en.wikipedia.org/wiki/JavaScript#Development_tools"><span class="tocnumber">8</span><span class="toctext">Development tools</span></a></li>
+<li class="toclevel-1 tocsection-32"><a href="https://en.wikipedia.org/wiki/JavaScript#Related_technologies"><span class="tocnumber">9</span><span class="toctext">Related technologies</span></a>
+<ul>
+<li class="toclevel-2 tocsection-33"><a href="https://en.wikipedia.org/wiki/JavaScript#Java"><span class="tocnumber">9.1</span><span class="toctext">Java</span></a></li>
+<li class="toclevel-2 tocsection-34"><a href="https://en.wikipedia.org/wiki/JavaScript#JSON"><span class="tocnumber">9.2</span><span class="toctext">JSON</span></a></li>
+<li class="toclevel-2 tocsection-35"><a href="https://en.wikipedia.org/wiki/JavaScript#WebAssembly"><span class="tocnumber">9.3</span><span class="toctext">WebAssembly</span></a></li>
+<li class="toclevel-2 tocsection-36"><a href="https://en.wikipedia.org/wiki/JavaScript#Transpilers"><span class="tocnumber">9.4</span><span class="toctext">Transpilers</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-37"><a href="https://en.wikipedia.org/wiki/JavaScript#References"><span class="tocnumber">10</span><span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-38"><a href="https://en.wikipedia.org/wiki/JavaScript#External_links"><span class="tocnumber">11</span><span class="toctext">External links</span></a></li>
+</ul>
+
+
+
+
