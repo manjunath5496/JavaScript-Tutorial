@@ -5,13 +5,20 @@
 <p>Although there are similarities between JavaScript and&nbsp;<a title="Java (programming language)" href="https://en.wikipedia.org/wiki/Java_(programming_language)">Java</a>, including language name,&nbsp;<a title="Syntax (programming languages)" href="https://en.wikipedia.org/wiki/Syntax_(programming_languages)">syntax</a>, and respective&nbsp;<a title="Standard library" href="https://en.wikipedia.org/wiki/Standard_library">standard libraries</a>, the two languages are distinct and differ greatly in design.</p>
 </br>
 
-<table class="infobox vevent"><caption class="summary">
-<p><strong>JavaScript</strong></p>
+<table class="infobox vevent">
+
+
+<tbody>
+    
+ <tr>
+    <p><strong>JavaScript</strong></p>
 <p>&nbsp;</p>
 <p><img src="JAVASCRIPT.png" alt="JavaScript logo" width="200" height="134" /></p>
 <p>&nbsp;</p>
-</caption>
-<tbody>
+    
+    </tr>
+    
+    
 <tr>
 <th scope="row"><a title="Programming paradigm" href="https://en.wikipedia.org/wiki/Programming_paradigm">Paradigm</a></th>
 <td><a title="Event-driven programming" href="https://en.wikipedia.org/wiki/Event-driven_programming">event-driven</a>,&nbsp;<a title="Functional programming" href="https://en.wikipedia.org/wiki/Functional_programming">functional</a>,&nbsp;<a title="Imperative programming" href="https://en.wikipedia.org/wiki/Imperative_programming">imperative</a></td>
