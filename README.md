@@ -630,7 +630,7 @@ LCMCalculator: a = 22, b = 58, gcd = 2, lcm = 638
 <p>&nbsp;</p>
 <h3><span id="Transpilers" class="mw-headline">Transpilers</span></h3>
 <p>JavaScript is the dominant client-side language of the Web, and many websites are script-heavy. Thus&nbsp;<a class="mw-redirect" title="Transpiler" href="https://en.wikipedia.org/wiki/Transpiler">transpilers</a>&nbsp;have been created to convert code written in other languages, which can aid the development process.</p>
-<h2>&nbsp;</h2>
+
 
 
 
