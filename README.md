@@ -62,7 +62,7 @@
 <li class="toclevel-2 tocsection-36"><a href="#Transpilers"><span class="toctext">Transpilers</span></a></li>
 </ul>
 </li>
-
+<li class="toclevel-2 tocsection-37"><a href="#Books"><span class="toctext">Books</span></a></li>
 </ul>
 </div>
 
@@ -629,14 +629,60 @@ LCMCalculator: a = 22, b = 58, gcd = 2, lcm = 638
 <p><a title="Asm.js" href="https://en.wikipedia.org/wiki/Asm.js">asm.js</a>&nbsp;is a subset of JavaScript that served as the forerunner of WebAssembly.</p>
 <h3><span id="Transpilers" class="mw-headline">Transpilers</span></h3>
 <p>JavaScript is the dominant client-side language of the Web, and many websites are script-heavy. Thus&nbsp;<a class="mw-redirect" title="Transpiler" href="https://en.wikipedia.org/wiki/Transpiler">transpilers</a>&nbsp;have been created to convert code written in other languages, which can aid the development process.</p>
+</br>
+<h2 id="Books">Books </h2>
+
+
+<ul>
+
+                             
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Tutorial/blob/master/js(1).pdf" style="text-decoration:none;">Head First JavaScript</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Tutorial/blob/master/js(2).pdf" style="text-decoration:none;">JavaScript Tutorial</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Tutorial/blob/master/js(3).pdf" style="text-decoration:none;">A Smarter Way to Learn JavaScript</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Tutorial/blob/master/js(4).pdf" style="text-decoration:none;">Coding with JavaScript For Dummies</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Tutorial/blob/master/js(5).pdf" style="text-decoration:none;">Data Structures and Algorithms with JavaScript</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Tutorial/blob/master/js(6).pdf" style="text-decoration:none;">Data Visualization with JavaScript</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Tutorial/blob/master/js(7).pdf" style="text-decoration:none;">Eloquent JavaScript: A Modern Introduction to Programming</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Tutorial/blob/master/js(8).pdf" style="text-decoration:none;"> Full Stack JavaScript: Learn Backbone.js, Node.js, and MongoDB</a></li>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Tutorial/blob/master/js(9).pdf" style="text-decoration:none;">Functional Programming in JavaScript</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Tutorial/blob/master/js(10).pdf" style="text-decoration:none;">JavaScript: The Definitive Guide</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Tutorial/blob/master/js(11).pdf" style="text-decoration:none;">JavaScript for Kids: A Playful Introduction to Programming</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Tutorial/blob/master/js(12).pdf" style="text-decoration:none;">JavaScript For Kids For Dummies</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Tutorial/blob/master/js(13).pdf" style="text-decoration:none;">JavaScript In 8 Hours</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Tutorial/blob/master/js(14).pdf" style="text-decoration:none;">JavaScript Step by Step</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Tutorial/blob/master/js(15).pdf" style="text-decoration:none;">JavaScript: Learn JavaScript With Ease </a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Tutorial/blob/master/js(16).pdf" style="text-decoration:none;"> JavaScript: Novice to Ninja </a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Tutorial/blob/master/js(17).pdf" style="text-decoration:none;">Learning JavaScript</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Tutorial/blob/master/js(18).pdf" style="text-decoration:none;">Learning JavaScript Design Patterns</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Tutorial/blob/master/js(19).pdf" style="text-decoration:none;">Learning JavaScript: A Hands-On Guide to the Fundamentals of Modern JavaScript</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Tutorial/blob/master/js(20).pdf" style="text-decoration:none;">Mastering JavaScript Design Patterns</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Tutorial/blob/master/js(21).pdf" style="text-decoration:none;">Mastering JavaScript Functional Programming</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Tutorial/blob/master/js(22).pdf" style="text-decoration:none;">Object-Oriented JavaScript</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Tutorial/blob/master/js(23).pdf" style="text-decoration:none;">JavaScript: The Good Parts</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Tutorial/blob/master/js(24).pdf" style="text-decoration:none;"> Rediscovering JavaScript</a></li>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Tutorial/blob/master/js(25).pdf" style="text-decoration:none;">Simplifying JavaScript: Writing Modern JavaScript with ES5, ES6, and Beyond</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Tutorial/blob/master/js(26).pdf" style="text-decoration:none;">Full Stack JavaScript Development with MEAN</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Tutorial/blob/master/js(27).pdf" style="text-decoration:none;">Web Animation using JavaScript</a></li>
 
 
 
-
-
-
-
-
-
-
+</ul>
+  
 
