@@ -803,7 +803,7 @@ LCMCalculator: a = 22, b = 58, gcd = 2, lcm = 638
 
 <ul>
 
-                             
+   <li><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Tutorial/blob/master/syntax.pdf" style="text-decoration:none;">JavaScript Syntax</a></li>                           
 
  <li><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Tutorial/blob/master/jsc.pdf" style="text-decoration:none;">JavaScript Cheat Sheet</a></li>
 
