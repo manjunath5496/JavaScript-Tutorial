@@ -809,6 +809,12 @@ LCMCalculator: a = 22, b = 58, gcd = 2, lcm = 638
 
  <li><a target="_blank" href="https://manjunath5496.github.io/JS/index.html" style="text-decoration:none;">JavaScript For Beginners</a></li>
 
+ <li><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Tutorial/blob/master/jvk(1).pdf" style="text-decoration:none;">Top 85 JavaScript Interview Questions</a></li>
+
+ <li><a target="_blank" href="https://www.youtube.com/results?search_query=JavaScript+Tutorial" style="text-decoration:none;">JavaScript videos</a></li>
+
+ <li><a target="_blank" href="https://manjunath5496.github.io/JS-quiz/index.html" style="text-decoration:none;">JavaScript Quiz</a></li>
+ 
 </ul>
 </br>
 
@@ -975,5 +981,5 @@ LCMCalculator: a = 22, b = 58, gcd = 2, lcm = 638
 <li><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Tutorial/blob/master/js(77).pdf" style="text-decoration:none;">JavaScript Bible </a></li>
 
 </ul>
-  
+  </br>
 
