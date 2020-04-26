@@ -814,7 +814,7 @@ LCMCalculator: a = 22, b = 58, gcd = 2, lcm = 638
  <li><a target="_blank" href="https://www.youtube.com/results?search_query=JavaScript+Tutorial" style="text-decoration:none;">JavaScript videos</a></li>
 
  <li><a target="_blank" href="https://manjunath5496.github.io/JS-quiz/index.html" style="text-decoration:none;">JavaScript Quiz</a></li>
- 
+ <li><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Exercises-for-Beginners/blob/master/README.md" style="text-decoration:none;">JavaScript Exercises for Beginners</a></li>
 </ul>
 </br>
 
