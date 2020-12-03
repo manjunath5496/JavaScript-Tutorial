@@ -1736,7 +1736,92 @@ LCMCalculator: a = 22, b = 58, gcd = 2, lcm = 638
 
 </br>
 
+<h2>Papers</h2>
 
+
+<ul>
+
+                             
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Tutorial/blob/master/jsv(1).pdf" style="text-decoration:none;">Finding and Preventing Bugs in JavaScript Bindings</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Tutorial/blob/master/jsv(2).pdf" style="text-decoration:none;">Single Page Application And Canvas Drawing</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Tutorial/blob/master/jsv(3).pdf" style="text-decoration:none;">trackswitch.js: A Versatile Web-Based Audio Player for Presenting Scientific Results</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Tutorial/blob/master/jsv(4).pdf" style="text-decoration:none;">BUGSJS: A Benchmark and Taxonomy of JavaScript Bugs</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Tutorial/blob/master/jsv(5).pdf" style="text-decoration:none;">Automated Analysis of Security-Critical JavaScript APIs</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Tutorial/blob/master/jsv(6).pdf" style="text-decoration:none;">A Systematic Literature Review and
+Quality Analysis of JavaScript Malware Detection</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Tutorial/blob/master/jsv(7).pdf" style="text-decoration:none;">Comparative Analysis Of Angularjs
+And Reactjs</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Tutorial/blob/master/jsv(8).pdf" style="text-decoration:none;"> Evaluating a Visual Approach for
+Understanding JavaScript Source Code </a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Tutorial/blob/master/jsv(9).pdf" style="text-decoration:none;">JSZap: Compressing JavaScript Code</a></li>
+  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Tutorial/blob/master/jsv(10).pdf" style="text-decoration:none;">How You Get Shot in the Back: A Systematical Study about Cryptojacking in the RealWorld</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Tutorial/blob/master/jsv(11).pdf" style="text-decoration:none;">A Sense of Time for JavaScript and Node.js: First-Class Timeouts as a Cure for Event Handler Poisoning</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Tutorial/blob/master/jsv(12).pdf" style="text-decoration:none;">DRUID<sub>JS</sub> — A JavaScript Library for Dimensionality Reduction</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Tutorial/blob/master/jsv(13).pdf" style="text-decoration:none;">Detecting Filter List Evasion With Event-Loop-Turn Granularity JavaScript Signatures</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Tutorial/blob/master/jsv(14).pdf" style="text-decoration:none;">Fingerprinting the Fingerprinters:
+Learning to Detect Browser Fingerprinting Behaviors</a></li>
+                              
+<li><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Tutorial/blob/master/jsv(15).pdf" style="text-decoration:none;">Busting Frame Busting:
+a Study of Clickjacking Vulnerabilities on Popular Sites</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Tutorial/blob/master/jsv(16).pdf" style="text-decoration:none;">Understanding TypeScript</a></li>
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Tutorial/blob/master/jsv(17).pdf" style="text-decoration:none;">
+Bringing the Web up to Speed with WebAssembly</a></li>   
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Tutorial/blob/master/jsv(18).pdf" style="text-decoration:none;">Comprehensive Analysis of React-Redux
+Development Framework</a></li> 
+
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Tutorial/blob/master/jsv(19).pdf" style="text-decoration:none;">Javascript Tutorial</a></li> 
+
+<li><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Tutorial/blob/master/jsv(20).pdf" style="text-decoration:none;">
+JavaScript for Beginners [Course Notes]</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Tutorial/blob/master/jsv(21).pdf" style="text-decoration:none;">JavaScript Asynchronous Programming</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Tutorial/blob/master/jsv(22).pdf" style="text-decoration:none;">JavaScript: How we go there</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Tutorial/blob/master/jsv(23).pdf" style="text-decoration:none;">Practical Static Analysis of JavaScript Applications in the Presence of Frameworks and Libraries</a></li> 
+ 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Tutorial/blob/master/jsv(24).pdf" style="text-decoration:none;">Fast and Reliable Browser Identification with JavaScript Engine Fingerprinting</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Tutorial/blob/master/jsv(25).pdf" style="text-decoration:none;">JSAI: A Static Analysis Platform for JavaScript</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Tutorial/blob/master/jsv(26).pdf" style="text-decoration:none;">The Power of Obfuscation Techniques in Malicious JavaScript Code: A Measurement Study</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Tutorial/blob/master/jsv(27).pdf" style="text-decoration:none;">Secure Content Sniffing for Web Browsers, or How to Stop Papers from Reviewing Themselves</a></li>
+   
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Tutorial/blob/master/jsv(28).pdf" style="text-decoration:none;">Time Present and Time Past: Analyzing the Evolution of JavaScript Code in the Wild</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Tutorial/blob/master/jsv(29).pdf" style="text-decoration:none;">CodeAlchemist: Semantics-Aware Code Generation to Find Vulnerabilities in JavaScript Engines</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Tutorial/blob/master/jsv(30).pdf" style="text-decoration:none;">Optimization Coaching for JavaScript</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Tutorial/blob/master/jsv(32).pdf" style="text-decoration:none;">Type Analysis for JavaScript</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Tutorial/blob/master/jsv(31).pdf" style="text-decoration:none;">
+The Essence of JavaScript</a></li> 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Tutorial/blob/master/jsv(33).pdf" style="text-decoration:none;">Position Paper: The Case for JavaScript Transactions</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Tutorial/blob/master/jsv(34).pdf" style="text-decoration:none;">Improving JavaScript Performance
+by Deconstructing the Type System</a></li> 
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Tutorial/blob/master/jsv(35).pdf" style="text-decoration:none;">An Analysis of the Dynamic Behavior of JavaScript Programs</a></li> 
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Tutorial/blob/master/jsv(36).pdf" style="text-decoration:none;">Finding Broken Promises in Asynchronous JavaScript Programs</a></li> 
+ 
+<li><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Tutorial/blob/master/jsv(37).pdf" style="text-decoration:none;">Static JavaScript Call Graphs: a Comparative Study</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Tutorial/blob/master/jsv(38).pdf" style="text-decoration:none;">To Type or Not to Type:
+Quantifying Detectable Bugs in JavaScript</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Tutorial/blob/master/jsv(39).pdf" style="text-decoration:none;">Empirical study of the dynamic behavior of JavaScript objects</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Tutorial/blob/master/jsv(40).pdf" style="text-decoration:none;">Spectre Attacks: Exploiting Speculative Execution</a></li>                              
+</ul>
 
 
 
